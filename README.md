@@ -1,9 +1,10 @@
 # Wiiflow-Sd-game-manager
 move/copy file from and to sd card, pc games folder, pc downloads folder, and veiw box art
 
-# Veiw games - to manage your games
-# Veiw covers - to veiw downloaded game covers
-# Settings - to veiw current settings, edit paths.txt to change settings
+# Nav Bar
+Veiw games - to manage your games
+Veiw covers - to veiw downloaded game covers
+Settings - to veiw current settings, edit paths.txt to change settings
 
 # Downloads
 dev -
